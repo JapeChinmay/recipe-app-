@@ -1,0 +1,7 @@
+.meals-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding-top: 30px;
+}
